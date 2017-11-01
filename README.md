@@ -1,7 +1,7 @@
 # spent-time
 ## Log for smcameron
 <hr>
-*Tue Oct 31 23:56:54 PDT 2017*
+<b>Tue Oct 31 23:56:54 PDT 2017</b>
 
 Made this page.
 
