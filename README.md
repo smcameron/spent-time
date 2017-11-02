@@ -1,6 +1,15 @@
 # spent-time
 ## Log for smcameron
 <hr>
+<b>Wed Nov  1 13:20:56 PDT 2017</b>
+<p>Spent some more time working on the rendering of the central star
+in Space Nerds In Space, trying to get it to deal with the two pass
+renderer. So far, not working quite right yet.
+
+<p>Signed up for <a href="https://github.com/NaNoGenMo/2017/issues/58">Nanogenmo 2017</a>
+
+<p>Practiced guitar for about an hour.
+<hr>
 <b>Tue Oct 31 23:56:54 PDT 2017</b>
 
 Made this page.
