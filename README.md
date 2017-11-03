@@ -5,6 +5,8 @@
 <p>Woke up early and couldn't sleep. Worked on the pseudo erosion thing.
 <a href="https://github.com/smcameron/pseudo-erosion">https://github.com/smcameron/pseudo-erosion</a>.
 Output currently looks like this: <a href="https://i.imgur.com/Dtv6gwv.png">output of pseudo-erosion</a>.
+<p>Fixed some problems with Space Nerds In Space joystick support. Still
+needs some work.  See <a href="https://github.com/smcameron/space-nerds-in-space/issues/117">Issue 117</a>.
 <hr>
 <b>Thu Nov  2 08:06:04 PDT 2017</b>
 <p>Need to spend some time looking at this:
