@@ -1,6 +1,11 @@
 # spent-time
 ## Log for smcameron
 <hr>
+<b>Fri Nov  3 05:11:41 PDT 2017</b>
+<p>Woke up early and couldn't sleep. Worked on the pseudo erosion thing.
+<a href="https://github.com/smcameron/pseudo-erosion">https://github.com/smcameron/pseudo-erosion</a>.
+Output currently looks like this: <a href="https://i.imgur.com/Dtv6gwv.png">output of pseudo-erosion</a>.
+<hr>
 <b>Thu Nov  2 08:06:04 PDT 2017</b>
 <p>Need to spend some time looking at this:
 <a href="https://www.reddit.com/r/proceduralgeneration/comments/797fgw/iterative_pseudoerosion/">Iterative Pseudo-Erosion</a>
@@ -31,6 +36,9 @@ the height from that point is
 The final height of the pixel is the minimum
 height given from all points. Iterate and combine as you please.
 </blockquote>
+
+<p>Worked on my nanogenmo program quite a bit. I think there's no
+escaping that its output will be an incoherent mess.
 <p>	
 <hr>
 <b>Wed Nov  1 13:20:56 PDT 2017</b>
