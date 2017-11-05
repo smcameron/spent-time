@@ -1,6 +1,10 @@
 # spent-time
 ## Log for smcameron
 <hr>
+<b>Sun Nov  5 09:22:18 PST 2017</b>
+<p>Mostly worked on nanogenmo yesterday.
+<P>Haven't been able to get the pseudo erosion thing to produce very nice output so far.
+<hr>
 <b>Fri Nov  3 05:11:41 PDT 2017</b>
 <p>Woke up early and couldn't sleep. Worked on the pseudo erosion thing.
 <a href="https://github.com/smcameron/pseudo-erosion">https://github.com/smcameron/pseudo-erosion</a>.
