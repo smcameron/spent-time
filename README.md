@@ -6,7 +6,27 @@
 properly, but found a few problems.
 <p>Spent a couple hours on nanogenmo 2017. I think this thing is probably
 a waste of time. What it produces so far is utter garbage, and not really
-entertaining.
+entertaining. A small sample:
+```
+Barrett Shaver shuffled his feet. Barrett was a hustler headed for a planet in the near arm of the Sordoban galaxy.
+Barrett climbs onto the back of a elephant and sets off.
+Barrett chooses to move from desert_plains 3 to small_spaceport 0.
+Barrett ponders the universe and what it all means. Barrett wonders what time it is.
+Barrett will go out of his mind without some kind of excitement.
+Barrett thinks about how to get his life back together
+Barrett takes a look at the clock. Barrett considers becoming a doctor.
+Barrett stares out the window. Barrett lifts a glass of whiskey.
+Barrett thinks about travelling the galaxy
+Barrett sighed wistfully
+Barrett climbs onto the back of a dragon and sets off.
+Barrett chooses to move from small_spaceport 0 to desert_plains 3.
+Barrett sees that Lashell is also here.
+Barrett sees that Jacinta is also here.
+Barrett climbs into a cargo hauler and throttles up the engines..
+Barrett chooses to move from desert_plains 3 to small_spaceport 0.
+Barrett begins running for his destination.
+
+```
 <hr>
 <b>Sun Nov  5 09:22:18 PST 2017</b>
 <p>Mostly worked on nanogenmo yesterday.
