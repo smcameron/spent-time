@@ -7,6 +7,7 @@ properly, but found a few problems.
 <p>Spent a couple hours on nanogenmo 2017. I think this thing is probably
 a waste of time. What it produces so far is utter garbage, and not really
 entertaining. A small sample:
+
 ```
 Barrett Shaver shuffled his feet. Barrett was a hustler headed for a planet in the near arm of the Sordoban galaxy.
 Barrett climbs onto the back of a elephant and sets off.
@@ -25,8 +26,8 @@ Barrett sees that Jacinta is also here.
 Barrett climbs into a cargo hauler and throttles up the engines..
 Barrett chooses to move from desert_plains 3 to small_spaceport 0.
 Barrett begins running for his destination.
-
 ```
+
 <hr>
 <b>Sun Nov  5 09:22:18 PST 2017</b>
 <p>Mostly worked on nanogenmo yesterday.
