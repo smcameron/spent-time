@@ -1,6 +1,13 @@
 # spent-time
 ## Log for smcameron
 <hr>
+<b>Tue Nov  7 08:52:08 PST 2017</b>
+<p>Yesterday, worked on debugging pseudo erosion -- didn't get it to work
+properly, but found a few problems.
+<p>Spent a couple hours on nanogenmo 2017. I think this thing is probably
+a waste of time. What it produces so far is utter garbage, and not really
+entertaining.
+<hr>
 <b>Sun Nov  5 09:22:18 PST 2017</b>
 <p>Mostly worked on nanogenmo yesterday.
 <P>Haven't been able to get the pseudo erosion thing to produce very nice output so far.
