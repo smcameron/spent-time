@@ -1,6 +1,16 @@
 # spent-time
 ## Log for smcameron
 <hr>
+<b>Wed Nov  8 15:37:46 PST 2017</b>
+<p>Spent quite a long time today reworking the joystick code
+in Space Nerds In Space to allow it to be configured with a config
+file and to support multiple joystick devices (e.g. my new thrustmaster
+HOTAS).  Unfortunately, my HOTAS is missing the RJ12/USB adapter, so
+I can't get the rudder pedals to work yet. I guess that explains why
+it was so cheap/open-box. Probably somebody lost or broke their adapter,
+bought the thing from Fry's, took out the adapter, packed it all back up
+(minus the adapter) then returned it. D'oh.
+<hr>
 <b>Tue Nov  7 08:52:08 PST 2017</b>
 <p>Yesterday, worked on debugging pseudo erosion -- didn't get it to work
 properly, but found a few problems.
