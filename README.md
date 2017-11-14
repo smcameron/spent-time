@@ -1,6 +1,11 @@
 # spent-time
 ## Log for smcameron
 <hr>
+<b>Mon Nov 13 23:03:15 PST 2017</b>
+<p>Went for a hike in Montebello Open Space Preserve today. Started on Page Mill Road, hiked across Steven's Creek up over to Skyline, crossed over and had lunch at Horseshoe Lake, then hiked back, for a total of about 5 miles.
+
+<p><a href="https://www.flickr.com/photos/89256134@N00/albums/72157662606089388">Some pictures</a>.
+<hr>
 <b>Wed Nov  8 15:37:46 PST 2017</b>
 <p>Spent quite a long time today reworking the joystick code
 in Space Nerds In Space to allow it to be configured with a config
