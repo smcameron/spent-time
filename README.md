@@ -2,6 +2,9 @@
 ## Log for smcameron
 <hr>
 <b>Mon Nov 13 23:03:15 PST 2017</b>
+<p>Added indicators for current heading and "mark" on the attitude indicator
+rings in Space Nerds in Space.
+
 <p>Went for a hike in Montebello Open Space Preserve today. Started on Page Mill Road, hiked across Steven's Creek up over to Skyline, crossed over and had lunch at Horseshoe Lake, then hiked back, for a total of about 5 miles.
 
 <p><a href="https://www.flickr.com/photos/89256134@N00/albums/72157662606089388">Some pictures</a>.
