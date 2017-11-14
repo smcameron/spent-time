@@ -2,6 +2,10 @@
 ## Log for smcameron
 <hr>
 <b>Mon Nov 13 23:03:15 PST 2017</b>
+<p>Yesterday, I bought "The Little Book of Commonsense Investing", by John C. Bogle (founder of Vanguard) and also "All About Asset Allocation", by Richard A. Ferri, in an attempt to get my finances in order somewhat. Not that they're in
+terrible disorder, but, I've been in an "accumulation" phase, and now I need to
+be in a phase that's somewhat more "preservation" oriented.
+
 <p>Added indicators for current heading and "mark" on the attitude indicator
 rings in Space Nerds in Space.
 
